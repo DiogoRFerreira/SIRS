@@ -1,5 +1,5 @@
 # SIRS
-Segurança Informática em Redes e Sistemas
+Segurança Informática em Redes e Sistemas/ Network and Computer Security
 
 This was my first Project in java before knowing anything about Threads, Sockets or Objects. 
 
